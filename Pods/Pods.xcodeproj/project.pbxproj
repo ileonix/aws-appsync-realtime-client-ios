@@ -11,21 +11,21 @@
 		1627E6FA0453D6DB472BA444F1D32AE7 /* SSLClientCertificate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DBD425D2B58528B26427B72C1648FA8 /* SSLClientCertificate.swift */; };
 		16C1C5B1133FDB6FC9DF32E86B789E93 /* Pods-HostApp-AppSyncRealTimeClientIntegrationTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A707D7A77DACD85A7E89A5C64E03ECF6 /* Pods-HostApp-AppSyncRealTimeClientIntegrationTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		26FA4B9AD3BC213147DEDAA9B75B2A4B /* Pods-HostApp-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 77251B65B0BC867A2BC73E05A057680B /* Pods-HostApp-dummy.m */; };
+		28F145FC996BDF643C9DE879D1BB9CF0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8143A63A7605FCCE182B0B916B4ED614 /* Foundation.framework */; };
 		294D61E8A195B6A1F6AEDCF0F73599A5 /* Starscream-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E7CD3B886D6D8805A735BDEF3BDCF0BA /* Starscream-dummy.m */; };
-		5F34566CD48894CFB1D11DEB98FD00D6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		619350AEB08F934F94F886473DD53961 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		6C199ECB9BA4D9C91081CEDEF8E7B9B0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		2BF4E66F1B3B0EADDDBF2D495772305D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8143A63A7605FCCE182B0B916B4ED614 /* Foundation.framework */; };
+		2E73E18B8472E85BF6F1A0F768CF4A6A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8143A63A7605FCCE182B0B916B4ED614 /* Foundation.framework */; };
 		817804C5825785E8C68D23F39AFD3ABF /* Pods-HostApp-AppSyncRealTimeClientIntegrationTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BC78695BA9B09FD71768039EEFD9E505 /* Pods-HostApp-AppSyncRealTimeClientIntegrationTests-dummy.m */; };
 		8B3350D96B15B975184C8EE0819F9623 /* SSLSecurity.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2D9C839438B1BC7D9DC70F5786B7A79 /* SSLSecurity.swift */; };
 		8B5F4307259687BF12A342B61BA74205 /* Pods-AppSyncRealTimeClient-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4B9620166AD3C7EE0FC8BD78D464CD79 /* Pods-AppSyncRealTimeClient-dummy.m */; };
-		96D67F9A7630A34944B6EAAD47F785E3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		AE652350C268B314D54639B7ED7250EB /* Pods-AppSyncRealTimeClient-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E2E89DDFAB03922917F8DA4C8553B27D /* Pods-AppSyncRealTimeClient-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B4A6283FDFA04E3A7B6FD0C13B6FEF32 /* Starscream-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 224B8A4E0612334207A2B350C859D2D4 /* Starscream-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C02D9FEB295BDA1359D2F52C80F8E75A /* WebSocket.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A53698F1D065DB33E81AB27CAAC02A /* WebSocket.swift */; };
+		C2B14CF58B8ABBE15092F94101C64A45 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8143A63A7605FCCE182B0B916B4ED614 /* Foundation.framework */; };
 		C61D0BE9E766F6FA0C8EC736E75D3712 /* Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DA1A1FD3AA7BE899D52C937AD2ABCDF8 /* Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests-dummy.m */; };
+		DA0C7FD2DBF4D9840FA0E644D3C42025 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8143A63A7605FCCE182B0B916B4ED614 /* Foundation.framework */; };
 		E1ADB160973B846BBA5A23EFDF1663F5 /* Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = AC5FC9D449FA2A8877A19191F3A092CE /* Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		ECE826AD8C2FC36A0D51101B1A21FFCF /* Pods-HostApp-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 785E2FB330C79BE4EA1802F98E208B30 /* Pods-HostApp-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F1A1D71AAC10E5156D1BE45FCF41D452 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,7 +61,6 @@
 		224B8A4E0612334207A2B350C859D2D4 /* Starscream-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Starscream-umbrella.h"; sourceTree = "<group>"; };
 		22A29C08E1F2879B5F40B9272E98D7BD /* Pods_AppSyncRealTimeClient_AppSyncRealTimeClientTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_AppSyncRealTimeClient_AppSyncRealTimeClientTests.framework; path = "Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		22A53698F1D065DB33E81AB27CAAC02A /* WebSocket.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = WebSocket.swift; path = Sources/Starscream/WebSocket.swift; sourceTree = "<group>"; };
-		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3A2AB5FF990A8E0FE800DBDCA93CDD21 /* Pods-AppSyncRealTimeClient.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-AppSyncRealTimeClient.modulemap"; sourceTree = "<group>"; };
 		3C4577D7D047FA934744235DAA310B13 /* Pods-HostApp-AppSyncRealTimeClientIntegrationTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HostApp-AppSyncRealTimeClientIntegrationTests-frameworks.sh"; sourceTree = "<group>"; };
 		4112AC35BEB06583873BB954015933BC /* Pods-HostApp-AppSyncRealTimeClientIntegrationTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-HostApp-AppSyncRealTimeClientIntegrationTests.modulemap"; sourceTree = "<group>"; };
@@ -82,6 +81,7 @@
 		77251B65B0BC867A2BC73E05A057680B /* Pods-HostApp-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HostApp-dummy.m"; sourceTree = "<group>"; };
 		785E2FB330C79BE4EA1802F98E208B30 /* Pods-HostApp-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HostApp-umbrella.h"; sourceTree = "<group>"; };
 		7FFFAFD46A0F73A3A2D631937E365358 /* Pods-HostApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HostApp.release.xcconfig"; sourceTree = "<group>"; };
+		8143A63A7605FCCE182B0B916B4ED614 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		81B676869B0B4CAFC7E88D6BAC199B49 /* Pods-AppSyncRealTimeClient-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-AppSyncRealTimeClient-Info.plist"; sourceTree = "<group>"; };
 		820632578FC956F3D78011F8A9AA5A02 /* Pods-HostApp-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HostApp-Info.plist"; sourceTree = "<group>"; };
 		8395B32D173647B089D8967DE4A1F136 /* Pods-AppSyncRealTimeClient.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-AppSyncRealTimeClient.release.xcconfig"; sourceTree = "<group>"; };
@@ -112,7 +112,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				96D67F9A7630A34944B6EAAD47F785E3 /* Foundation.framework in Frameworks */,
+				DA0C7FD2DBF4D9840FA0E644D3C42025 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -120,7 +120,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6C199ECB9BA4D9C91081CEDEF8E7B9B0 /* Foundation.framework in Frameworks */,
+				C2B14CF58B8ABBE15092F94101C64A45 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -128,7 +128,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				619350AEB08F934F94F886473DD53961 /* Foundation.framework in Frameworks */,
+				2BF4E66F1B3B0EADDDBF2D495772305D /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,7 +136,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F1A1D71AAC10E5156D1BE45FCF41D452 /* Foundation.framework in Frameworks */,
+				28F145FC996BDF643C9DE879D1BB9CF0 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -144,13 +144,21 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5F34566CD48894CFB1D11DEB98FD00D6 /* Foundation.framework in Frameworks */,
+				2E73E18B8472E85BF6F1A0F768CF4A6A /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1F9FCB3618DC551B524D67B669081319 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D02E61C1D1A202565BB5EEA211202F55 /* tvOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		264B30FB4D9C0B4BDC8349AFF40FD43D /* Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests */ = {
 			isa = PBXGroup;
 			children = (
@@ -214,31 +222,23 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
-		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
+				1F9FCB3618DC551B524D67B669081319 /* Frameworks */,
 				97C5288770E1953BDB40F8F908E40D46 /* Pods */,
 				2B24D4899EF353F3905CF68DBFECA023 /* Products */,
 				6674FFB9FC5D9ABF500A75608657D094 /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
 		};
-		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
+		D02E61C1D1A202565BB5EEA211202F55 /* tvOS */ = {
 			isa = PBXGroup;
 			children = (
-				C0834CEBB1379A84116EF29F93051C60 /* iOS */,
+				8143A63A7605FCCE182B0B916B4ED614 /* Foundation.framework */,
 			);
-			name = Frameworks;
+			name = tvOS;
 			sourceTree = "<group>";
 		};
 		D53943E22ED900152E008CDEBDCA3C0F /* Pods-AppSyncRealTimeClient */ = {
@@ -580,190 +580,7 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0439035460E8539BA92E22A7DD746F82 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = DBC54E5EF1964185AC24E0EED24FE4E7 /* Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests/Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests/Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		20A0E4F409700F18721BC0062CD8F91B /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 160F8F9FC3A23D5BC21D6E5BADBBB504 /* Pods-HostApp-AppSyncRealTimeClientIntegrationTests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-HostApp-AppSyncRealTimeClientIntegrationTests/Pods-HostApp-AppSyncRealTimeClientIntegrationTests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-HostApp-AppSyncRealTimeClientIntegrationTests/Pods-HostApp-AppSyncRealTimeClientIntegrationTests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		23DAA796EA37EA24566495280E748F06 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6A0B7D439B81AAF110C14562A8D7CE1A /* Starscream.debug.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/Starscream/Starscream-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Starscream/Starscream-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/Starscream/Starscream.modulemap";
-				PRODUCT_MODULE_NAME = Starscream;
-				PRODUCT_NAME = Starscream;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		25159E683F5FA60BE3620471DF9B0CA9 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E0690E22960644838E0FE920E79709F9 /* Pods-HostApp-AppSyncRealTimeClientIntegrationTests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-HostApp-AppSyncRealTimeClientIntegrationTests/Pods-HostApp-AppSyncRealTimeClientIntegrationTests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-HostApp-AppSyncRealTimeClientIntegrationTests/Pods-HostApp-AppSyncRealTimeClientIntegrationTests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		35BC321697BA712E466815924337D1AA /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E63A7F2D8B4DA51D2907CBD374D6EF7C /* Starscream.release.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/Starscream/Starscream-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/Starscream/Starscream-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MODULEMAP_FILE = "Target Support Files/Starscream/Starscream.modulemap";
-				PRODUCT_MODULE_NAME = Starscream;
-				PRODUCT_NAME = Starscream;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		3736A6618D74EA0C0B75FC9DA7EDCFC2 /* Release */ = {
+		1B82D9D634119DD47FE1E51FB0B01FFD /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7FFFAFD46A0F73A3A2D631937E365358 /* Pods-HostApp.release.xcconfig */;
 			buildSettings = {
@@ -779,7 +596,6 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-HostApp/Pods-HostApp-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -792,16 +608,90 @@
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
+				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.0;
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
 		};
-		476AE845BE0EBDC5216F6AEFF54B91DC /* Debug */ = {
+		233F7C7F2331A4D003348A556ABA03F9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6A0B7D439B81AAF110C14562A8D7CE1A /* Starscream.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/Starscream/Starscream-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Starscream/Starscream-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MODULEMAP_FILE = "Target Support Files/Starscream/Starscream.modulemap";
+				PRODUCT_MODULE_NAME = Starscream;
+				PRODUCT_NAME = Starscream;
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.0;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		37D0E8CE8A0E896EC5225D7509B66C81 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 8395B32D173647B089D8967DE4A1F136 /* Pods-AppSyncRealTimeClient.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-AppSyncRealTimeClient/Pods-AppSyncRealTimeClient-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-AppSyncRealTimeClient/Pods-AppSyncRealTimeClient.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.0;
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		4DF83DCC7883C063A65DD57164682BE2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 735A451220FDEA76F5BB1DD6E29EA51A /* Pods-AppSyncRealTimeClient.debug.xcconfig */;
 			buildSettings = {
@@ -817,7 +707,6 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				INFOPLIST_FILE = "Target Support Files/Pods-AppSyncRealTimeClient/Pods-AppSyncRealTimeClient-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -830,15 +719,128 @@
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
+				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.0;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
 		};
-		8F17DC3A99F99FBAD606CE6963886315 /* Release */ = {
+		4EA9D31ACFC38861F054DCCF1F97C8F2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = DBC54E5EF1964185AC24E0EED24FE4E7 /* Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests/Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests/Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.0;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		7C31C36292D1678D553C5DAC4826771C /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 160F8F9FC3A23D5BC21D6E5BADBBB504 /* Pods-HostApp-AppSyncRealTimeClientIntegrationTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-HostApp-AppSyncRealTimeClientIntegrationTests/Pods-HostApp-AppSyncRealTimeClientIntegrationTests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-HostApp-AppSyncRealTimeClientIntegrationTests/Pods-HostApp-AppSyncRealTimeClientIntegrationTests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.0;
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		A9DF37628F225B885BD4639C5095AC15 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 67D7B82C5EAD303BC90480FC359E1EE8 /* Pods-HostApp.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-HostApp/Pods-HostApp-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-HostApp/Pods-HostApp.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.0;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		ACC90DE1E3B7FACF2728CD51F424D435 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -886,7 +888,6 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -895,10 +896,49 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
+				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
 			name = Release;
 		};
-		916E0404255105F480DC4950B7625F7A /* Debug */ = {
+		C34823A18F298918DC8A215739EACEF5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6E3F1CFF889AA1BA55D7FAED2617740A /* Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests/Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests/Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.0;
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		D34AF3253F76DCDBCD88361A0203E8D6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -949,7 +989,6 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -959,14 +998,14 @@
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
+				TVOS_DEPLOYMENT_TARGET = 9.0;
 			};
 			name = Debug;
 		};
-		D21F59F208413E45E3E1408C2EC0ECEB /* Release */ = {
+		DADEA3650CCFD8E622239E2E117EAFF5 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6E3F1CFF889AA1BA55D7FAED2617740A /* Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests.release.xcconfig */;
+			baseConfigurationReference = E63A7F2D8B4DA51D2907CBD374D6EF7C /* Starscream.release.xcconfig */;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -976,33 +1015,32 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests/Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests-Info.plist";
+				GCC_PREFIX_HEADER = "Target Support Files/Starscream/Starscream-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/Starscream/Starscream-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests/Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
+				MODULEMAP_FILE = "Target Support Files/Starscream/Starscream.modulemap";
+				PRODUCT_MODULE_NAME = Starscream;
+				PRODUCT_NAME = Starscream;
+				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.0;
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
 		};
-		E216A8C6C1347A07620A28CB2C4BC3B2 /* Release */ = {
+		FD175AD7757C96A7B5B3898BC7042162 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8395B32D173647B089D8967DE4A1F136 /* Pods-AppSyncRealTimeClient.release.xcconfig */;
+			baseConfigurationReference = E0690E22960644838E0FE920E79709F9 /* Pods-HostApp-AppSyncRealTimeClientIntegrationTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CODE_SIGN_IDENTITY = "";
@@ -1014,62 +1052,24 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-AppSyncRealTimeClient/Pods-AppSyncRealTimeClient-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-HostApp-AppSyncRealTimeClientIntegrationTests/Pods-HostApp-AppSyncRealTimeClientIntegrationTests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-AppSyncRealTimeClient/Pods-AppSyncRealTimeClient.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-HostApp-AppSyncRealTimeClientIntegrationTests/Pods-HostApp-AppSyncRealTimeClientIntegrationTests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
+				SDKROOT = appletvos;
 				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		F32EA9BA4532C78CC2F9E2B46F13AC12 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 67D7B82C5EAD303BC90480FC359E1EE8 /* Pods-HostApp.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-HostApp/Pods-HostApp-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-HostApp/Pods-HostApp.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 9.0;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -1081,8 +1081,8 @@
 		0C2566A1C7D7F5BC80A925F7465B1BB5 /* Build configuration list for PBXNativeTarget "Pods-AppSyncRealTimeClient-AppSyncRealTimeClientTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0439035460E8539BA92E22A7DD746F82 /* Debug */,
-				D21F59F208413E45E3E1408C2EC0ECEB /* Release */,
+				4EA9D31ACFC38861F054DCCF1F97C8F2 /* Debug */,
+				C34823A18F298918DC8A215739EACEF5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1090,8 +1090,8 @@
 		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				916E0404255105F480DC4950B7625F7A /* Debug */,
-				8F17DC3A99F99FBAD606CE6963886315 /* Release */,
+				D34AF3253F76DCDBCD88361A0203E8D6 /* Debug */,
+				ACC90DE1E3B7FACF2728CD51F424D435 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1099,8 +1099,8 @@
 		6D274754DBDCAFECB42B6500F93C8CDE /* Build configuration list for PBXNativeTarget "Pods-HostApp-AppSyncRealTimeClientIntegrationTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				25159E683F5FA60BE3620471DF9B0CA9 /* Debug */,
-				20A0E4F409700F18721BC0062CD8F91B /* Release */,
+				FD175AD7757C96A7B5B3898BC7042162 /* Debug */,
+				7C31C36292D1678D553C5DAC4826771C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1108,8 +1108,8 @@
 		93FEAC97C420A74C2CCEF1CE28B3F47D /* Build configuration list for PBXNativeTarget "Pods-AppSyncRealTimeClient" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				476AE845BE0EBDC5216F6AEFF54B91DC /* Debug */,
-				E216A8C6C1347A07620A28CB2C4BC3B2 /* Release */,
+				4DF83DCC7883C063A65DD57164682BE2 /* Debug */,
+				37D0E8CE8A0E896EC5225D7509B66C81 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1117,8 +1117,8 @@
 		EA87744D5019387CF4ACA8B58746EB97 /* Build configuration list for PBXNativeTarget "Pods-HostApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F32EA9BA4532C78CC2F9E2B46F13AC12 /* Debug */,
-				3736A6618D74EA0C0B75FC9DA7EDCFC2 /* Release */,
+				A9DF37628F225B885BD4639C5095AC15 /* Debug */,
+				1B82D9D634119DD47FE1E51FB0B01FFD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -1126,8 +1126,8 @@
 		ED5C15C705AB67930733A7E237A0A33A /* Build configuration list for PBXNativeTarget "Starscream" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				23DAA796EA37EA24566495280E748F06 /* Debug */,
-				35BC321697BA712E466815924337D1AA /* Release */,
+				233F7C7F2331A4D003348A556ABA03F9 /* Debug */,
+				DADEA3650CCFD8E622239E2E117EAFF5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
